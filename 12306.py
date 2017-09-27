@@ -15,9 +15,9 @@ MainCookieURL = 'https://kyfw.12306.cn/otn/leftTicket/init'
 INDEX = 'https://kyfw.12306.cn/otn/leftTicket/queryX'
 
 date = "2017-10-07"
-from_station = "STS"
+#from_station = "STS"
 from_station_ch ='古田会址'
-to_station = "XMS"
+#to_station = "XMS"
 to_station_ch = '厦门'
 purpose_codes = "ADULT"
 
